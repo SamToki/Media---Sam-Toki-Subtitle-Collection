@@ -3,7 +3,7 @@
 [ Michael Jackson: 1995 "Dangerous" Dance Live ]
 <font color=#888888>English Subtitle by Sam Toki
 Finished on Sun, Nov 1, 2020
-This subtitle is without copyright limits.</font>
+This subtitle is without copyright.</font>
 
 2
 00:00:06.000 --> 00:00:08.000
@@ -75,12 +75,12 @@ The girl was bad...
 Hoo!
 
 19
-00:00:56.000 --> 00:00:56.300
+00:00:56.200 --> 00:00:56.500
 <font color=#FFFF00>Hit!</font>
 
 20
 00:01:02.500 --> 00:01:04.500
-<font color=#FFFF00>Hit x7</font>
+Huh x7
 
 21
 00:01:04.700 --> 00:01:05.000
@@ -124,7 +124,7 @@ Deep in the darkness of passion's insanity.
 
 31
 00:01:26.500 --> 00:01:29.400
-I felt taken by lust's stranger, inhumanity.
+I felt taken by lust's strange inhumanity.
 
 32
 00:01:29.500 --> 00:01:29.800
@@ -155,8 +155,8 @@ The girl was bad...
 <font color=#FFFF00>Gunshot!</font>
 
 39
-00:01:42.700 --> 00:01:43.500
-Huh, huh,
+00:01:42.900 --> 00:01:43.800
+Huh x2
 
 40
 00:01:44.000 --> 00:01:44.300
@@ -168,7 +168,7 @@ Huh, huh,
 
 42
 00:01:58.800 --> 00:02:00.900
-Huh, huh, huh, huh,
+Huh x4
 
 43
 00:02:01.000 --> 00:02:02.500
@@ -184,7 +184,7 @@ You've been struck by...
 a smooth criminal.
 
 46
-00:02:08.800 --> 00:02:09.500
+00:02:08.900 --> 00:02:09.600
 Aw!
 
 47
@@ -245,19 +245,19 @@ But you're no damn lover friend of mine.
 <font color=#FFFF00>Hit!</font>
 
 61
-00:02:56.500 --> 00:02:57.800
+00:02:56.500 --> 00:02:58.000
 My baby!
 
 62
-00:02:57.900 --> 00:02:58.200
+00:02:58.100 --> 00:02:58.500
 <font color=#FFFF00>Hit!</font>
 
 63
-00:03:00.400 --> 00:03:04.200
+00:03:00.400 --> 00:03:04.300
 You bet, you bet, no, you don't, you don't, don't,
 
 64
-00:03:04.400 --> 00:03:06.400
+00:03:04.500 --> 00:03:06.400
 that's my baby!
 
 65
@@ -354,7 +354,7 @@ DJ! DJ!
 
 88
 00:03:32.100 --> 00:03:34.000
-<font color=#FFFF00>Woo~~~</font>
+<font color=#FFFF00>Woo~</font>
 
 89
 00:03:43.400 --> 00:03:43.700
@@ -385,7 +385,7 @@ DJ! DJ!
 <font color=#FFFF00>Hit!</font>
 
 96
-00:03:55.900 --> 00:03:56.200
+00:03:56.100 --> 00:03:56.400
 <font color=#FFFF00>Hit!</font>
 
 97
